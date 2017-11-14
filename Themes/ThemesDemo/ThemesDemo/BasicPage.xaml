@@ -14,6 +14,7 @@
 		    <Switch />
 		</StackLayout>
 
+        <SearchBar Placeholder="Search me!"></SearchBar>
 		<Label Text="BoxView StyleClass" />
 		<StackLayout Padding="40">
 		    <BoxView StyleClass="HorizontalRule" />
